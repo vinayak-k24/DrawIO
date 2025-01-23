@@ -1,13 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0/8mqErPuL-62" version="26.0.6">
   <diagram name="Page-1" id="x1x1jQGCvQJNrQuSsYLs">
-    <mxGraphModel dx="1055" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1822" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UWNxCFQyKMXS_jXEXgzP-1" value="&lt;span&gt;&lt;font&gt;Encrypted IoT Traffic Input&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="80" y="204" width="130" height="98" as="geometry" />
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-1" value="&lt;span&gt;&lt;font face=&quot;Garamond&quot;&gt;Encrypted IoT Traffic Input&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="60" y="204" width="150" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="UWNxCFQyKMXS_jXEXgzP-3" value="Multimodal Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="UWNxCFQyKMXS_jXEXgzP-3" target="UWNxCFQyKMXS_jXEXgzP-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-3" value="&lt;font style=&quot;&quot; face=&quot;Courier New&quot;&gt;Multimodal Feature Extraction&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="280" height="400" as="geometry" />
         </mxCell>
         <mxCell id="UWNxCFQyKMXS_jXEXgzP-5" value="Network Flow Features" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
@@ -21,6 +24,24 @@
         </mxCell>
         <mxCell id="UWNxCFQyKMXS_jXEXgzP-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.004;entryY=0.533;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" edge="1" parent="1" source="UWNxCFQyKMXS_jXEXgzP-1" target="UWNxCFQyKMXS_jXEXgzP-3">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=5;" edge="1" parent="1" source="UWNxCFQyKMXS_jXEXgzP-10" target="UWNxCFQyKMXS_jXEXgzP-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-10" value="&lt;font face=&quot;Courier New&quot;&gt;Multimodal&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;Auto Encoder&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="280" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-11" value="Encoder" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="707" y="107" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-12" value="Latent space" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="708" y="218" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-13" value="Decoder" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="708" y="331" width="230" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UWNxCFQyKMXS_jXEXgzP-15" value="&lt;span&gt;&lt;font face=&quot;Garamond&quot;&gt;Attack Classification&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=5;fontSize=20;fontStyle=1;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="191" width="150" height="98" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
