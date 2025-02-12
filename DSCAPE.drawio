@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0/8mqDiPuL-36" version="26.0.11">
   <diagram name="Page-1" id="QC02r56veLsKFBvLP0nR">
-    <mxGraphModel dx="1336" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="771" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,10 @@
           <mxGeometry x="120" y="30" width="700" height="110" as="geometry" />
         </mxCell>
         <mxCell id="WyXnQKl_5n0sE6Io4rbe-2" value="API Gateway Layer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="120" y="190" width="700" height="110" as="geometry" />
+          <mxGeometry x="120" y="192.5" width="700" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="WyXnQKl_5n0sE6Io4rbe-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WyXnQKl_5n0sE6Io4rbe-3" target="WyXnQKl_5n0sE6Io4rbe-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="WyXnQKl_5n0sE6Io4rbe-3" value="DSCAPE Core Layer" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="120" y="340" width="710" height="340" as="geometry" />
@@ -108,6 +111,18 @@
         </mxCell>
         <mxCell id="WyXnQKl_5n0sE6Io4rbe-34" value="Data Blocks" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="705" y="780" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="WyXnQKl_5n0sE6Io4rbe-44" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.143;entryY=-0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="WyXnQKl_5n0sE6Io4rbe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="141" as="sourcePoint" />
+            <mxPoint x="450" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WyXnQKl_5n0sE6Io4rbe-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.369;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.369;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="WyXnQKl_5n0sE6Io4rbe-1" target="WyXnQKl_5n0sE6Io4rbe-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="151" as="sourcePoint" />
+            <mxPoint x="230" y="202" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
