@@ -19,17 +19,41 @@
         <mxCell id="T6drmKnqL6TJFt0mdkRS-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="44" y="90" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Contract Interface&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="244" y="90" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User/Client Application&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="444" y="90" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;External Services&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="644" y="90" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6drmKnqL6TJFt0mdkRS-10" target="T6drmKnqL6TJFt0mdkRS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6drmKnqL6TJFt0mdkRS-10" target="T6drmKnqL6TJFt0mdkRS-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="T6drmKnqL6TJFt0mdkRS-10" target="T6drmKnqL6TJFt0mdkRS-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T6drmKnqL6TJFt0mdkRS-10" value="API Gateway and Load Balancer&lt;br&gt;(Request Routing and Traffic Management)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;verticalAlign=middle;strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="14" y="280" width="800" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-14" value="Core ML-Chain Services" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;verticalAlign=top;strokeWidth=2;labelPosition=center;verticalLabelPosition=middle;align=center;labelBackgroundColor=none;labelBorderColor=none;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="14" y="440" width="800" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-44" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;D-PRA Service Layer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="44" y="510" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-45" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;RL-ARM Service Layer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="244" y="510" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-46" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;FL-DMT Service Layer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="444" y="510" width="140" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;MOO-PT Service Layer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;shadow=0;glass=0;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="644" y="510" width="140" height="155" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
