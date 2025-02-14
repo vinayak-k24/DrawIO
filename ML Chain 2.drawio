@@ -7,17 +7,17 @@
         <mxCell id="T6drmKnqL6TJFt0mdkRS-1" value="External Interfaces" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="100" y="50" width="700" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-2" value="Blockchain Network" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Blockchain Network&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="130" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-3" value="Smart Contract Interface" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="290" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Smart Contract Interface&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="305" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="460" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-4" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User/Client Application&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T6drmKnqL6TJFt0mdkRS-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="630" y="100" width="120" height="60" as="geometry" />
+        <mxCell id="T6drmKnqL6TJFt0mdkRS-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;External Services&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
