@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0/8mqTxTuL-47" version="26.0.16">
   <diagram name="Page-1" id="Mental_Health_Framework">
-    <mxGraphModel dx="1002" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1431" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="wdryHq3ZijFiDDk9EXZv-1" target="wdryHq3ZijFiDDk9EXZv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-1" value="Data Collection" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wdryHq3ZijFiDDk9EXZv-2" target="wdryHq3ZijFiDDk9EXZv-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-2" value="Data Preprocessing&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="240" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wdryHq3ZijFiDDk9EXZv-3" target="wdryHq3ZijFiDDk9EXZv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-3" value="Machine Learning Models" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="wdryHq3ZijFiDDk9EXZv-4" target="wdryHq3ZijFiDDk9EXZv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-4" value="Prediction &amp;amp; Diagnosis&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="240" y="560" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wdryHq3ZijFiDDk9EXZv-5" value="Clinical Decision Support" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
