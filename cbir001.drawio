@@ -19,7 +19,7 @@
         <mxCell id="2SeL0Gn1fTy4U4uI-d4s-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Cbja1di_zOioqlzYBnRs-2" target="Cbja1di_zOioqlzYBnRs-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Cbja1di_zOioqlzYBnRs-2" value="Image Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="Cbja1di_zOioqlzYBnRs-2" value="Image Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=15;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2SeL0Gn1fTy4U4uI-d4s-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="Cbja1di_zOioqlzYBnRs-4" target="Cbja1di_zOioqlzYBnRs-6">
