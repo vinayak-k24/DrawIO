@@ -14,7 +14,7 @@
           <mxGeometry x="102" y="614" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-44" value="Multi Agent Integration" style="rounded=1;whiteSpace=wrap;fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;dashed=1;fontSize=20;verticalAlign=top;spacingTop=10;fontStyle=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="402" y="84" width="400" height="600" as="geometry" />
+          <mxGeometry x="402" y="84" width="400" height="556" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="vWiq6X1iSuXR0RfbROmm-46">
           <mxGeometry relative="1" as="geometry">
