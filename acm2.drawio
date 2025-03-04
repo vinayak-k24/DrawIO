@@ -1,44 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0/8mqHiSuL-56" version="26.0.16">
   <diagram name="Page-1" id="3OytQac5HJwh2mRRplk6">
-    <mxGraphModel dx="2831" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1293" dy="247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=white;strokeColor=black;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="50" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-3" value="SCEM: Smart Contract-Embedded ML" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="60" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-4" value="BVML: Blockchain-Verified ML" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="90" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-5" value="ARIN: Adaptive Resource Intelligence" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="120" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-6" value="Network" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="150" width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-8" value="Bottom-layer Agent Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="200" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-11" value="Upper-layer Network" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=15;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1200" y="190" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-12" value="" style="rounded=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="50" width="230" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-13" value="SCEM: Smart Contract-Embedded ML" style="text;html=1;align=left;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="75" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-14" value="BVML: Blockchain-Verified ML" style="text;html=1;align=left;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="105" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-15" value="ARIN: Adaptive Resource Intelligence" style="text;html=1;align=left;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="135" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-16" value="Network" style="text;html=1;align=left;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1245" y="165" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-20" value="Bottom-layer Agent Cluster" style="rounded=0;whiteSpace=wrap;fillColor=#e8f5e9;strokeColor=#4caf50;strokeWidth=2;dashed=1;fontSize=20;verticalAlign=top;spacingTop=10;fontStyle=1" vertex="1" parent="1">
           <mxGeometry y="120" width="240" height="560" as="geometry" />
@@ -67,9 +34,6 @@
         <mxCell id="vWiq6X1iSuXR0RfbROmm-61" value="Multi-Agent Coordination&lt;br&gt;Federated Learning Engine&lt;br&gt;Dynamic Adjustment Protocol&lt;br&gt;Performance Monitoring System" style="text;html=1;align=center;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="371.25" y="550" width="300" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="vWiq6X1iSuXR0RfbROmm-62" value="Upper-layer Network" style="rounded=1;whiteSpace=wrap;fillColor=#b3e5fc;strokeColor=#03a9f4;strokeWidth=2;fontStyle=1;fontSize=15;align=center" vertex="1" parent="1">
-          <mxGeometry x="1200" y="180" width="260" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-63" value="N1" style="ellipse;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1240" y="260" width="40" height="40" as="geometry" />
         </mxCell>
@@ -89,7 +53,7 @@
           <mxGeometry x="1360" y="320" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-69" value="Nn" style="ellipse;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1400" y="280" width="40" height="40" as="geometry" />
+          <mxGeometry x="1420" y="290" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-70" value="" style="strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" edge="1" parent="1" source="vWiq6X1iSuXR0RfbROmm-63" target="vWiq6X1iSuXR0RfbROmm-64">
           <mxGeometry relative="1" as="geometry" />
@@ -116,31 +80,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-78" value="" style="whiteSpace=wrap;fillColor=#ffffff;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="410" width="180" height="100" as="geometry" />
+          <mxGeometry x="1520" y="435" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-79" value="Blockchain Network" style="text;html=1;align=center;fontStyle=1;fontSize=15;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="435" width="180" height="20" as="geometry" />
+          <mxGeometry x="1040" y="465" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-80" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1260" y="445" width="30" height="20" as="geometry" />
+          <mxGeometry x="1060" y="475" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-81" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1290" y="445" width="30" height="20" as="geometry" />
+          <mxGeometry x="1090" y="475" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-82" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="445" width="30" height="20" as="geometry" />
+          <mxGeometry x="1120" y="475" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-83" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1350" y="445" width="30" height="20" as="geometry" />
+          <mxGeometry x="1150" y="475" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-84" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="465" width="30" height="20" as="geometry" />
+          <mxGeometry x="1075" y="495" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-85" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1305" y="465" width="30" height="20" as="geometry" />
+          <mxGeometry x="1105" y="495" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-86" value="" style="fillColor=#e1f5fe;strokeColor=#03a9f4;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1335" y="465" width="30" height="20" as="geometry" />
+          <mxGeometry x="1135" y="495" width="30" height="20" as="geometry" />
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-87" value="" style="rounded=1;whiteSpace=wrap;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="1200" y="560" width="260" height="170" as="geometry" />
@@ -372,6 +336,9 @@
         </mxCell>
         <mxCell id="vWiq6X1iSuXR0RfbROmm-182" value="" style="ellipse;fillColor=#ff9800;strokeColor=none;fontSize=15;strokeWidth=2;" vertex="1" parent="vWiq6X1iSuXR0RfbROmm-183">
           <mxGeometry y="30" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="vWiq6X1iSuXR0RfbROmm-184" value="Upper-layer Network" style="rounded=0;whiteSpace=wrap;fillColor=#e3f2fd;strokeColor=#2196f3;strokeWidth=2;dashed=1;fontSize=20;verticalAlign=top;spacingTop=10;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="800" y="120" width="400" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
