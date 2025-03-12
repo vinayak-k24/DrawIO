@@ -1,16 +1,16 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0/8mqDiPuL-36" version="26.1.0">
   <diagram name="Page-1" id="Cv1-WxYaIpTdHHCbRo7C">
-    <mxGraphModel dx="2600" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2348" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-45" value="Multilingual Document Image" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-45" value="Multilingual Document Image" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-1120" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uzRomYNOrLV1fTSC3tp6-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="uzRomYNOrLV1fTSC3tp6-46" target="uzRomYNOrLV1fTSC3tp6-85">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-46" value="Preprocessing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-46" value="Preprocessing" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-880" y="80" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uzRomYNOrLV1fTSC3tp6-48" value="Noise Removal" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
@@ -31,7 +31,7 @@
         <mxCell id="uzRomYNOrLV1fTSC3tp6-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="uzRomYNOrLV1fTSC3tp6-85" target="uzRomYNOrLV1fTSC3tp6-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-85" value="Feature Extraction" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-85" value="Feature Extraction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-640" y="80" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uzRomYNOrLV1fTSC3tp6-86" value="Wavelet Transform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
@@ -46,7 +46,7 @@
         <mxCell id="uzRomYNOrLV1fTSC3tp6-98" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;curved=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uzRomYNOrLV1fTSC3tp6-90" target="uzRomYNOrLV1fTSC3tp6-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-90" value="Classification" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-90" value="Classification" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;verticalAlign=top;spacingTop=5;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-400" y="80" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="uzRomYNOrLV1fTSC3tp6-91" value="K-Nearest Neighbours" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
@@ -66,10 +66,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-96" value="Feature Database" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-96" value="Feature Database" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-880" y="400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uzRomYNOrLV1fTSC3tp6-97" value="Identified Script" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="uzRomYNOrLV1fTSC3tp6-97" value="Identified Script" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#333333;strokeWidth=2;fontStyle=1;fontSize=15;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="-640" y="400" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uzRomYNOrLV1fTSC3tp6-102" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" target="uzRomYNOrLV1fTSC3tp6-85">
