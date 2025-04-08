@@ -26,13 +26,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-3" value="Adaptive Feature Fusion" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="240" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-4" target="HI6qSiooYZO7LKn1hE1g-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-4" value="Co-Attention Mechanism" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="220" y="320" width="130" height="40" as="geometry" />
+          <mxGeometry x="220" y="300" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-5" target="HI6qSiooYZO7LKn1hE1g-3">
           <mxGeometry relative="1" as="geometry" />
@@ -40,14 +40,16 @@
         <mxCell id="HI6qSiooYZO7LKn1hE1g-5" value="EfficientNet Extraction" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HI6qSiooYZO7LKn1hE1g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-6" target="HI6qSiooYZO7LKn1hE1g-7">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="HI6qSiooYZO7LKn1hE1g-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" target="HI6qSiooYZO7LKn1hE1g-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-6" value="Fisher Vector Encoding" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="370" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="370" y="300" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-7" value="Retrieved Image Results" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="280" y="400" width="160" height="40" as="geometry" />
+          <mxGeometry x="280" y="380" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
