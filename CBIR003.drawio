@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0/8mqAoGuL-19" version="26.2.8">
   <diagram name="Page-1" id="7atDqDjZ4vKjEj2NSeFB">
-    <mxGraphModel dx="687" dy="370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="HI6qSiooYZO7LKn1hE1g-1" value="Input Image" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="280" y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HI6qSiooYZO7LKn1hE1g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-2" target="HI6qSiooYZO7LKn1hE1g-3">
+        <mxCell id="HI6qSiooYZO7LKn1hE1g-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-2" target="HI6qSiooYZO7LKn1hE1g-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-2" value="HOG Feature Extraction" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
@@ -34,10 +34,8 @@
         <mxCell id="HI6qSiooYZO7LKn1hE1g-4" value="Co-Attention Mechanism" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="320" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HI6qSiooYZO7LKn1hE1g-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;fontStyle=1" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="240" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="HI6qSiooYZO7LKn1hE1g-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="HI6qSiooYZO7LKn1hE1g-5" target="HI6qSiooYZO7LKn1hE1g-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HI6qSiooYZO7LKn1hE1g-5" value="EfficientNet Extraction" style="rounded=1;whiteSpace=wrap;html=1;imageHeight=24;arcSize=8;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="160" width="120" height="40" as="geometry" />
