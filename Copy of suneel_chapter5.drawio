@@ -82,9 +82,6 @@
         <mxCell id="gran-selection" value="&lt;b&gt;GRANULARITY-AWARE FEATURE SELECTION MECHANISMS&lt;/b&gt;&lt;br&gt;Dynamic Selection and Computation of Most Discriminative Features" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fontSize=11;spacingTop=2;" parent="1" vertex="1">
           <mxGeometry x="200" y="595" width="600" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="innovation" value="&lt;b&gt;KEY&lt;br&gt;INNOVATION&lt;/b&gt;&lt;br&gt;Unlike traditional&lt;br&gt;uniform approaches" style="rounded=1;whiteSpace=wrap;html=1;strokeStyle=dashed;fontSize=8;spacingTop=2;" parent="1" vertex="1">
-          <mxGeometry x="780" y="595" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;spacingTop=2;" parent="1" source="tier2" target="tier3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
