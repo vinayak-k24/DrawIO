@@ -1,55 +1,55 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36 Edg/140.0.0.0" version="28.2.1">
   <diagram name="HyViT-X Architecture" id="2rfx3KiK0LZ8S4K1HwoA">
-    <mxGraphModel dx="2175" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3059" dy="1200" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-2" value="Mammography Input&lt;br&gt;&lt;i&gt;Medical Image Data&lt;/i&gt;&lt;br&gt;[H × W × C]" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#e8f4fd;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-2" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Mammography Input&lt;br&gt;&lt;i&gt;Medical Image Data&lt;/i&gt;&lt;br&gt;[H × W × C]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#e8f4fd;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="319" y="40" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-3" value="Preprocessing Pipeline&lt;br&gt;• Normalization • Augmentation • Patch Extraction&lt;br&gt;&lt;i&gt;Preprocessed Image Patches&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#f39c12;fillColor=#fef9e7;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-3" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Preprocessing Pipeline&lt;br&gt;• Normalization • Augmentation • Patch Extraction&lt;br&gt;&lt;i&gt;Preprocessed Image Patches&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#f39c12;fillColor=#fef9e7;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="239" y="160" width="360" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-4" value="CNN Feature Extraction&lt;br&gt;&lt;i&gt;Local Pattern Detection&lt;/i&gt;&lt;br&gt;• Microcalcifications&lt;br&gt;• Edge Features&lt;br&gt;• Texture Patterns" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#e8f8f5;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-4" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;CNN Feature Extraction&lt;br&gt;&lt;i&gt;Local Pattern Detection&lt;/i&gt;&lt;br&gt;• Microcalcifications&lt;br&gt;• Edge Features&lt;br&gt;• Texture Patterns&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#e8f8f5;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="79" y="280" width="321" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-5" value="Vision Transformer&lt;br&gt;&lt;i&gt;Global Reasoning&lt;/i&gt;&lt;br&gt;• Tissue Architecture&lt;br&gt;• Bilateral Symmetry&lt;br&gt;• Long-range Dependencies" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#8e44ad;fillColor=#f4ecf7;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-5" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Vision Transformer&lt;br&gt;&lt;i&gt;Global Reasoning&lt;/i&gt;&lt;br&gt;• Tissue Architecture&lt;br&gt;• Bilateral Symmetry&lt;br&gt;• Long-range Dependencies&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#8e44ad;fillColor=#f4ecf7;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="440" y="280" width="320" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-6" value="Feature Fusion&lt;br&gt;&lt;i&gt;Hybrid Representation&lt;/i&gt;&lt;br&gt;CNN ⊕ ViT Features" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e67e22;fillColor=#fdf2e9;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-6" value="Feature Fusion&lt;br&gt;&lt;i&gt;Hybrid Representation&lt;/i&gt;&lt;br&gt;CNN ⊕ ViT Features" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e67e22;fillColor=#fdf2e9;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="320" y="440" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-7" value="Parallel Explainability Processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#2c3e50;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-7" value="Parallel Explainability Processing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1;fontColor=#000000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="270" y="560" width="300" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-8" value="Attention&lt;br&gt;Visualization&lt;br&gt;&lt;br&gt;Self-attention maps&lt;br&gt;Feature relevance&lt;br&gt;Spatial importance" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#ebf3fd;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-8" value="Attention&lt;br&gt;Visualization&lt;br&gt;&lt;br&gt;Self-attention maps&lt;br&gt;Feature relevance&lt;br&gt;Spatial importance" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#ebf3fd;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="-40" y="600" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-9" value="SHAP Analysis&lt;br&gt;&lt;br&gt;Feature importance&lt;br&gt;Contribution scores&lt;br&gt;Shapley values" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#f0f8e8;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-9" value="SHAP Analysis&lt;br&gt;&lt;br&gt;Feature importance&lt;br&gt;Contribution scores&lt;br&gt;Shapley values" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#f0f8e8;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="200" y="600" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-10" value="Grad-CAM++&lt;br&gt;&lt;br&gt;Localization maps&lt;br&gt;Class activation&lt;br&gt;Gradient-based" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e74c3c;fillColor=#fdf2f2;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-10" value="Grad-CAM++&lt;br&gt;&lt;br&gt;Localization maps&lt;br&gt;Class activation&lt;br&gt;Gradient-based" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e74c3c;fillColor=#fdf2f2;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="440" y="600" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-11" value="Classification&lt;br&gt;Head&lt;br&gt;&lt;br&gt;• Benign&lt;br&gt;• Malignant&lt;br&gt;• Confidence" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#34495e;fillColor=#f8f9fa;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-11" value="Classification&lt;br&gt;Head&lt;br&gt;&lt;br&gt;• Benign&lt;br&gt;• Malignant&lt;br&gt;• Confidence" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#34495e;fillColor=#f8f9fa;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="680" y="600" width="200" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-12" value="Interpretable Clinical Outputs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2c3e50;strokeWidth=2;fillColor=#f9f9f9;fontColor=#2c3e50;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-12" value="Interpretable Clinical Outputs" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#2c3e50;strokeWidth=2;fillColor=#f9f9f9;fontColor=#000000;fontSize=15;fontStyle=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="120" y="800" width="560" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-13" value="Attention&lt;br&gt;Heatmaps" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#e8f4fd;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-13" value="Attention&lt;br&gt;Heatmaps" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#e8f4fd;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="80" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-14" value="SHAP&lt;br&gt;Explanations" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#f0f8e8;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-14" value="SHAP&lt;br&gt;Explanations" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#f0f8e8;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="239" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-15" value="Grad-CAM++&lt;br&gt;Localizations" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e74c3c;fillColor=#fdf2f2;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-15" value="Grad-CAM++&lt;br&gt;Localizations" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#e74c3c;fillColor=#fdf2f2;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="399" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-16" value="Diagnostic&lt;br&gt;Report" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#34495e;fillColor=#f8f9fa;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-16" value="Diagnostic&lt;br&gt;Report" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#34495e;fillColor=#f8f9fa;fontColor=#000000;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="560" y="880" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WPN7j5AMV1sHuhzcs4ST-17" value="Performance Characteristics&lt;br&gt;Sub-second Inference | High-throughput Ready" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#d5f4e6;fontColor=#27ae60;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
+        <mxCell id="WPN7j5AMV1sHuhzcs4ST-17" value="Performance Characteristics&lt;br&gt;Sub-second Inference | High-throughput Ready" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#27ae60;fillColor=#d5f4e6;fontColor=#003300;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
           <mxGeometry x="160" y="1000" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="WPN7j5AMV1sHuhzcs4ST-22" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#2c3e50;strokeWidth=2;fontStyle=1;fontSize=15;align=center;" parent="1" source="WPN7j5AMV1sHuhzcs4ST-2" target="WPN7j5AMV1sHuhzcs4ST-3" edge="1">
