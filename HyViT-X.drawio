@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="W5BZf4UweYg0G1txBZpo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="W5BZf4UweYg0G1txBZpo-2" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-50" y="20" width="940" height="1080" as="geometry" />
         </mxCell>
         <mxCell id="WPN7j5AMV1sHuhzcs4ST-2" value="&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;Mammography Input&lt;br&gt;&lt;i&gt;Medical Image Data&lt;/i&gt;&lt;br&gt;[H × W × C]&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#3498db;fillColor=#e8f4fd;fontColor=#2c3e50;fontSize=15;fontStyle=1;strokeWidth=2;align=center;" parent="1" vertex="1">
