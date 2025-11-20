@@ -144,9 +144,9 @@
           <mxGeometry height="30" width="60" x="395" y="120" as="geometry" />
         </mxCell>
         <mxCell id="QuQ_VVypfVGcWS2kfwlc-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;strokeWidth=3;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;(e)&amp;nbsp;Classification Head&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="185" x="410" y="460" as="geometry" />
+          <mxGeometry height="30" width="185" x="450" y="460" as="geometry" />
         </mxCell>
-        <mxCell id="QuQ_VVypfVGcWS2kfwlc-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontStyle=1;strokeWidth=3;" value="Fused Attention" vertex="1">
+        <mxCell id="QuQ_VVypfVGcWS2kfwlc-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;horizontal=0;fontStyle=1;strokeWidth=3;" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Fused Attention&lt;/font&gt;" vertex="1">
           <mxGeometry height="270" width="40" x="640" y="110" as="geometry" />
         </mxCell>
         <mxCell id="QuQ_VVypfVGcWS2kfwlc-5" edge="1" parent="1" source="reGFs31HOzOmz-DNS8fg-26" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9.047619047619047;endSize=3.814285714285714;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;strokeWidth=3;" value="">
